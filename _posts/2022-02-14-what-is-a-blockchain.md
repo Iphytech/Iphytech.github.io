@@ -9,13 +9,10 @@ Essentially, it is also a digital ledger of transactions that is duplicated and 
 
 This computer systems are refered to as nodes, any electronic device that has copies of the blockchain and keeps the network functioning. See more on blockchain [here](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+![image](https://user-images.githubusercontent.com/16593266/153962739-2b09a725-1934-4df8-8827-0e48f7a92b72.png)
+Source [Dreamstime](https://www.dreamstime.com/stock-illustration-concept-illustration-blockchain-network-d-rendering-image-clipping-path-image81450372)
+
+
 Now, let's bring it down to a layman's language, from the diagram, we have 4 nodes(A, B, C, D of computer systems) connected to this database in the network(blockchain), it means that once a block is created, a hash is also created 
 which makes it difficult to tamper with, once a block has been created, it become difficult to change. The data depends on the type of a blockchain.
 
